@@ -12,3 +12,6 @@ A small, interactive React app (Vite) for focused study sessions:
 3. Open the dev URL (usually http://localhost:5173)
 
 Enjoy and customize colors/presets to your liking!
+
+<img width="1900" height="870" alt="image" src="https://github.com/user-attachments/assets/c946b542-4525-4167-b5bc-bd185f644b21" />
+
